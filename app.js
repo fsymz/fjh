@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "别熬夜了🌙",
     "财源滚滚🪙",
     "一切都会变好的",
+    "平安夜要平平安安🎄",
   ];
 
   // 主题色
@@ -166,7 +167,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         popup.innerHTML = `
           <div class="top-part">
-            <div class="to-label">❤️To 可可奶</div>
+            <div class="to-label">🎄To 可可奶</div>
           </div>
           <div class="divider"></div>
           <div class="bottom-part">
